@@ -1,6 +1,6 @@
 {
   "name": "@ricardommps/simple-react-comp-library",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "@richardbray/simple-react-comp-library": "ssh://git@github.com:ricardommps/simple-react-comp-library.git#main"
   },
