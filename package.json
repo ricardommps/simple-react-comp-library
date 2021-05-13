@@ -1,7 +1,9 @@
 {
-  "name": "@richardbray/simple-react-comp-library",
-  "version": "0.1.0",
-  "dependencies": {},
+  "name": "@ricardommps/simple-react-comp-library",
+  "version": "0.1.1",
+  "dependencies": {
+    "@richardbray/simple-react-comp-library": "ssh://git@github.com:ricardommps/simple-react-comp-library.git#main"
+  },
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
